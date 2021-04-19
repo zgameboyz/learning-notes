@@ -7,3 +7,5 @@ the "#" creates a size 1 header with multiple symbols creating subsequent sized 
 To bold in markdown it is 2 pound symbols with **text**.
 
 A singular pound creates *Italics*.
+
+To create a strike through it is two tildes. ~~Strikeout~~
