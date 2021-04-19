@@ -9,3 +9,6 @@ To bold in markdown it is 2 pound symbols with **text**.
 A singular pound creates *Italics*.
 
 To create a strike through it is two tildes. ~~Strikeout~~
+
+Words from Joel probably
+>To quote a text use a greater than symbol. 
