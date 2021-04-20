@@ -12,6 +12,18 @@ The cycles change by add, remove, edit, commmit, and stage file.
 
 The fartherst cycle is called HEAD or the most current version that has been pushed.
 
+Joel Says:
+
+> Remember to read my notepads with the following commands.
+
+>git clone (then link)
+
+>git add (name of file) readies a file to be commited/saved
+
+>git commit -m "message to commit"
+
+>git push origin mai
+
 ### git remote Command
 The git remote command allows you to view short names of all specified remote handles. 
 
