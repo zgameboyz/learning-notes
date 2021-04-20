@@ -16,16 +16,16 @@ Joel Says:
 
 > Remember to read my notepads with the following commands.
 
->git clone (then link)
+>```git clone``` (then link)
 
->git add (name of file) readies a file to be commited/saved
+>```git add``` (name of file) readies a file to be commited/saved
 
->git commit -m "message to commit"
+>```git commit -m "message to commit"```
 
->git push origin mai
+>```git push origin main```
 
 ### git remote Command
-The git remote command allows you to view short names of all specified remote handles. 
+The ```git remote command``` allows you to view short names of all specified remote handles. 
 
 I gathered the notes from reading [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7) by Jenny Choi 
 
