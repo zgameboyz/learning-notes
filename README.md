@@ -11,5 +11,5 @@ Joel Says:
 >I am *enjoying* this **markdown** assignment.
 
 ## Table of Contents
-* [01 Markdown Notes](markdown.md)
+* [01 Markdown Notes](rn-01-markdown.md)
 * [03 Git Notes](rn-03-revisions-and-the-cloud)
