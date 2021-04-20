@@ -6,3 +6,13 @@ These *snapshots* are instances of your file that you can go back and use if you
 ### Some useful commands
 
 The ```git status command``` allows you to see the current status of the file. 
+The life cycle of a file changes from Untracked ---> Unmodified ---> Modified ---> Staged
+
+The cycles change by add, remove, edit, commmit, and stage file.
+
+The fartherst cycle is called HEAD or the most current version that has been pushed.
+
+### git remote Command
+The git remote command allows you to view short names of all specified remote handles. 
+
+I gathered the notes from reading [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7) by Jenny Choi 
