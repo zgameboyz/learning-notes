@@ -16,3 +16,5 @@ The fartherst cycle is called HEAD or the most current version that has been pus
 The git remote command allows you to view short names of all specified remote handles. 
 
 I gathered the notes from reading [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7) by Jenny Choi 
+
+[<-Back](README.md)

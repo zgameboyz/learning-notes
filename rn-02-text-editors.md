@@ -17,3 +17,5 @@ ls stands for list and it can be passed arguments to find more specific actions.
 ### Files 
 
 In linux everything is a file. The type of file is normally denoted by its extension such as .jpg for a picture. In Linux you do not need to have an extension as it looks directly at the file to determine what type it is. Linux files are Case-Sensitive meaning different files can have the same name as long as the case is different. If you want to name something with a space between it you should put it in quotations. ls -a allows the user to see all files including hidden files.
+
+[<-Back](README.md)
