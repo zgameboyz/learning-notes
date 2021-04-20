@@ -14,3 +14,4 @@ Joel Says:
 * [01 Markdown Notes](rn-01-markdown.md)
 * [02 Markdown Notes](rn-02-text-editors.md)
 * [03 Git Notes](rn-03-revisions-and-the-cloud.md)
+* [04 HTML](rn-04-html.md)
