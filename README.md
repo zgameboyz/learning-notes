@@ -17,3 +17,4 @@ Joel Says:
 * [04 HTML](rn-04-html.md)
 * [05 CSS](rn-05-css.md)
 * [06 JavaScript](rn-06-javascript.md)
+* [07 How Computers Work](rn-07-how-computers-work.md)
