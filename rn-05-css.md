@@ -10,9 +10,9 @@ Here are some important keywords.
 
 *type* specifiees the document type being linked. 
 
-*rel* tells the connection between the html page and the file linked to it. When linking a CSS the value should be stylesheet.
+*rel* tells the connection between the html page and the file linked to it. When linking a CSS the value should be stylesheet. ```
 
-## Internal CSS
+### Internal CSS
 
 You can directly targer or select elements to change the style of in the style.css file. There are a lot of selectors to targer specific areas. And if you want to target everything you simply use * {}. 
 
