@@ -16,3 +16,4 @@ Joel Says:
 * [03 Git Notes](rn-03-revisions-and-the-cloud.md)
 * [04 HTML](rn-04-html.md)
 * [05 CSS](rn-05-css.md)
+* [06 CSS](rn-06-javascript.md)
