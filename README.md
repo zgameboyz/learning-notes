@@ -19,4 +19,4 @@ Joel Says:
 * [06 JavaScript](rn-06-javascript.md)
 * [07 How Computers Work](rn-07-how-computers-work.md)
 * [08 More Javascript notes](rn-08-more-javascript.md)
-* [09 loops](rn-09-more-loops.md)
+* [09 loops](rn-09-loops.md)
